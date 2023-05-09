@@ -8,7 +8,7 @@
     "storeHouse": [
         {
             "sourceName": "业余日后在线多仓线路",
-            "sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/yyrh/main/fxz.json"
+            "sourceUrl": "./fxz.json"
         }
     ]
 }
