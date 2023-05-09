@@ -1,0 +1,9 @@
+电视使用本地包，不用解压，直接扫码上传。手机使用本地包，手动解压为文件夹yyrh。
+多仓路径为:
+clan://localhost/yyrh/分享者.json
+名称:业余日后本地包
+
+影视:file://localhost/yyrh/fxz.json
+影音壳子:http://127.0.0.1:9978/file/yyrh/fxz.json
+
+本包为日后大佬收集，本人稍微整理而成，如有侵权，请联系删除处理

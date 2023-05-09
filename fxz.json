@@ -1,0 +1,50 @@
+{"warningText": "分享者专属本地包。","warningText": "关注公众号:业余打发，分享者随时更新。",
+"urls":[
+{
+"name":"🌴｜菜妮丝线路｜🌴",
+"url":"clan://localhost/yyrh/cns/rh.json"
+},
+{
+"name":"🐉｜多多线路｜🐉",
+"url":"clan://localhost/yyrh/dduo/rh.json"
+},
+{
+"name":"🐉｜肥猫线路｜🐉",
+"url":"clan://localhost/yyrh/feim/rh.json"
+},
+{
+"name":"🌨｜饭太硬线路｜🌨",
+"url":"clan://localhost/yyrh/fty/rh.json"
+},
+{
+"name":"👇｜高天流云线路｜👇",
+"url":"clan://localhost/yyrh/gtly/rh.json"
+},
+{
+"name":"💫｜荷城秀东线路｜💫",
+"url":"clan://localhost/yyrh/hcxd/rh.json"
+},
+{
+"name":"🔥｜刘备线路｜🔥",
+"url":"clan://localhost/yyrh/lcn/rh.json"
+},
+{
+"name":"✨｜甜蜜线路｜✨",
+"url":"clan://localhost/yyrh/tm/rh.json"
+},
+{
+"name":"🏝｜夜猫子线路｜🏝",
+"url":"clan://localhost/yyrh/ymz/rh.json"
+},
+{
+"name":"✨｜云星哔哩线路｜✨",
+"url":"clan://localhost/yyrh/yxbl/rh.json"
+},
+{"name": "🥗｜云星家庭线路｜🥗",
+ "url":"clan://localhost/yyrh/yxjt/rh.json"  
+},
+{"name": "🎡｜运输车线路｜🎡",
+ "url":"clan://localhost/yyrh/ysc/rh.json"  
+}
+]
+}
