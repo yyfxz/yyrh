@@ -2,49 +2,49 @@
 "urls":[
 {
 "name":"🌴｜菜妮丝线路｜🌴",
-"url":"clan://localhost/yyrh/cns/cns.json"
+"url":"https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/yyrh/main/cns/cns.json"
 },
 {
 "name":"🐉｜多多线路｜🐉",
-"url":"clan://localhost/yyrh/dduo/dduo.json"
+"url":"https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/yyrh/main/dduo/dduo.json"
 },
 {
 "name":"🐉｜肥猫线路｜🐉",
-"url":"clan://localhost/yyrh/feim/feim.json"
+"url":"https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/yyrh/main/feim/feim.json"
 },
 {
 "name":"🌨｜饭太硬线路｜🌨",
-"url":"clan://localhost/yyrh/fty/fty.json"
+"url":"https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/yyrh/main/fty/fty.json"
 },
 {
 "name":"👇｜高天流云线路｜👇",
-"url":"clan://localhost/yyrh/gtly/gtly.json"
+"url":"https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/yyrh/main/gtly/gtly.json"
 },
 {
 "name":"💫｜荷城秀东线路｜💫",
-"url":"clan://localhost/yyrh/hcxd/hcxd.json"
+"url":"https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/yyrh/main/hcxd/hcxd.json"
 },
 {
 "name":"🔥｜刘备线路｜🔥",
-"url":"clan://localhost/yyrh/lcn/lcn.json"
+"url":"https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/yyrh/main/lcn/lcn.json"
 },
 {
 "name":"✨｜甜蜜线路｜✨",
-"url":"clan://localhost/yyrh/tm/tm.json"
+"url":"https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/yyrh/main/tm/tm.json"
 },
 {
 "name":"🏝｜夜猫子线路｜🏝",
-"url":"clan://localhost/yyrh/ymz/ymz.json"
+"url":"https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/yyrh/main/ymz/ymz.json"
 },
 {
 "name":"✨｜云星哔哩线路｜✨",
-"url":"clan://localhost/yyrh/yxbl/yxbl.json"
+"url":"https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/yyrh/main/yxbl/yxbl.json"
 },
 {"name": "🥗｜云星家庭线路｜🥗",
- "url":"clan://localhost/yyrh/yxjt/yxjt.json"  
+ "url":"https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/yyrh/main/yxjt/yxjt.json"  
 },
 {"name": "🎡｜运输车线路｜🎡",
- "url":"clan://localhost/yyrh/ysc/ysc.json"  
+ "url":"https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/yyrh/main/ysc/ysc.json"  
 }
 ]
 }
